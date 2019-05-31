@@ -2,7 +2,11 @@
 #
 ## macOS Dark Mode at sunset
 ## Solar times pulled from Night Shift
-## Author: katernet ## Version 1.8.3
+## Author: katernet
+## Version 1.9.0
+## See https://github.com/katernet/darkmode for details
+## Install/enable by running `./darkmode.sh` in terminal
+## Uninstall/disable by running `./darkmode.sh /u` in termainal
 
 ## Global variables ##
 darkdir=~/Library/Application\ Support/darkmode # darkmode directory
